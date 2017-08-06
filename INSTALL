@@ -1,0 +1,9 @@
+Building Cinema
+
+See doc/readme-qt.rst for instructions on building Cinema QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cinema.
+
+See doc/build-*.txt for instructions on building cinemad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cinema.
